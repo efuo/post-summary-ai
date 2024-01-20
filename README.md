@@ -1,4 +1,4 @@
-## Post-Summary-AI
+## Article-Summary-AI
 一个较通用的，生成网站内文章摘要，基于 TianliGPT 后端
 
 > 该项目理论支持所有类型的网站，无论动态还是静态站，本项目在创作    [hexo-theme-solitude](https://github.com/wleelw/hexo-theme-solitude) 时诞生，主题已内置，欢迎大家使用。

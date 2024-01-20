@@ -1,0 +1,24 @@
+{
+  "name": "post-summary-ai",
+  "version": "1.0.0",
+  "description": "一个较通用的，生成网站内文章摘要，基于 TianliGPT 后端",
+  "main": "sco-post-ai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wleelw/Post-Summary-AI.git"
+  },
+  "keywords": [
+    "ScoAI",
+    "Summary-AI",
+    "TianliGPT"
+  ],
+  "author": "wleelw",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wleelw/Post-Summary-AI/issues"
+  },
+  "homepage": "https://github.com/wleelw/Post-Summary-AI#readme"
+}

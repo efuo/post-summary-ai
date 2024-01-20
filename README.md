@@ -12,9 +12,9 @@
     在 body 中引入 CDN链接：
     > tianliCDN: https://cdn1.tianli0.top/gh/wleelw/Post-Summary-AI@1.0.0/sco-post-ai.min.js
     
-    > cdn.cbd: https://cdn.cbd.int/Post-Summary-AI@1.0.0/sco-post-ai.min.js
+    > cdn.cbd: https://cdn.cbd.int/post-summary-ai@1.0.0/sco-post-ai.min.js
 
-    > unpkg: https://unpkg.com/Post-Summary-AI@1.0.0/sco-post-ai.min.js
+    > unpkg: https://unpkg.com/post-summary-ai@1.0.0/sco-post-ai.min.js
 2. 查看当前网站的文章挂载ID
    文章内容的最外围的元素类名或者ID
    ![Alt text](/demo/image2.png)
